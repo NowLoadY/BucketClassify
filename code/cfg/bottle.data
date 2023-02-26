@@ -1,0 +1,5 @@
+classes = 3
+train = data/dataset/train.txt
+valid = data/dataset/test.txt
+names =bottle.names
+backup = data/dataset
