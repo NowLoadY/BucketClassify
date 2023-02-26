@@ -8,3 +8,10 @@
 cp -r code/ darknet/
 ```
 3. 下载权重文件，放至darknet主目录下。
+4. 运行主程序
+```bash
+cd darknet/
+python3 bottle.py
+```
+## Notice
+该仓库代码仅用于特定场景下的应用。
