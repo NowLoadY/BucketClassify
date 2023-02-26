@@ -1,4 +1,5 @@
 # BottleClassify
+![](image/bottleclassify.png)
 用于传送带上的桶的分类
 ## 使用方法
 1. 下载编译darknet
